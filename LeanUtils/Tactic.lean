@@ -1,4 +1,5 @@
 import LeanUtils.Parity
+import LeanUtils.Div
 
 attribute [simp]
   -- -- addition
@@ -36,3 +37,4 @@ attribute [simp]
   Nat.even_plus_even
   Nat.even_plus_odd
   Nat.odd_plus_odd
+  Nat.div_plus_div
