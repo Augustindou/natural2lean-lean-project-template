@@ -1,4 +1,3 @@
-import LeanUtils.Div
 import LeanUtils.Parity
 
 attribute [simp]
